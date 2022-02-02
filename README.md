@@ -1,5 +1,5 @@
 # anti-afk
-[WINDOWS] this python script makes minecraft character jump to avoid being sent to afk lobbies.
+[WINDOWS] this python script makes your minecraft character jump to avoid being sent to afk lobbies.
 
 ### Note
 Be sure your jump keybind is set to SPACE.
